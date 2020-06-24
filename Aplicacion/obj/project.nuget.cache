@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P77IanKA4fbSze4VOnjzLJEpHWHgZpSxclb/p4se5rlUAEWfoil2i6hcHi7/mD6ZJROxcdhbg2jCtfwGitibLg==",
+  "success": true,
+  "projectFilePath": "/home/mxc/Escritorio/NETCORE/WEBAPI/Aplicacion/Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "/home/mxc/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/mxc/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
